@@ -7,6 +7,7 @@ function makeid(l) {
 			Math.floor(Math.random()*charlist.length)
 		)
 	}
+	return ans;
   // write your code here
 }
 
